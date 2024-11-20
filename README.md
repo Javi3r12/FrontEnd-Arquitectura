@@ -1,1 +1,4 @@
-# FrontEnd-Arquitectura
+Integrantes:
+Javier San Martin
+Italo Zapata
+Joaquín Carrillo
